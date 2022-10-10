@@ -25,3 +25,6 @@ npm i -D nodemon ts-node
 
 A ideia era rodar o projeto através do comando: npm run dev, e para isso, foi necessário adicionar um script no projeto, para que quando o comando fosse dado, o script fosse executado de forma automática: 
 "dev": "nodemon --exec ts-node --transpile-only --files index.ts",
+
+# Documentação typescript:
+https://www.typescriptlang.org/docs/
